@@ -1,0 +1,11 @@
+encoding: utf-8
+lang: ja
+timezone: Asia/Tokyo
+
+plugins: ["jekyll-remote-theme"]
+remote_theme: glyzinie/jekyll-wolke
+
+baseURL: https://lumietech.co.jp
+title: 株式会社 LumieTech
+description: 会社説明
+copyright: 2025 LumieTech Co., Ltd.
